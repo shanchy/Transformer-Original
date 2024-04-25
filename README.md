@@ -61,4 +61,4 @@ Ein Mann isst eine Orange, während er mit seinem Sohn spricht.
 English : 
 a man eats corn while talking to his son .
 ```
-The model does well on sample 1. Sample 2 is taken from the train set, just presented here to illustrate how well the model was able to fit to a long sentence. For sample, it wrongly translates orange to corn. Overall, the model's translation ability is very limited and it does make a lot of mistakes for unseen sentences. However, taking into consideration the relatively tiny size of the model and a limited dataset size of 30k, the translation outputs of the model are impressive.
+The model does well on sample 1. Sample 2 is taken from the train set, just presented here to illustrate how well the model was able to fit to a long sentence. For sample 3, it wrongly translates orange to corn. Overall, the model's translation ability is very limited and it does make a lot of mistakes for unseen sentences. However, taking into consideration the relatively tiny size of the model and a limited dataset size of 30k, the translation outputs of the model are impressive.
