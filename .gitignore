@@ -1,4 +1,5 @@
 *.zip
 .git
 .ipynb_checkpoints
-
+germanToEnglish
+numReverser
