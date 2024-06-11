@@ -883,7 +883,7 @@ for e in range(num_epochs):
         # tgt_in is fed into the decoder and tgt_out is compared against the actual transformer outputs
         tgt_in, tgt_out = tgt[:, :-1], tgt[:, 1:]
         # Forward propagation
-        logits = ger_eng_translator(src, tgt_in, pad_idx)`
+        logits = ger_eng_translator(src, tgt_in, pad_idx)
         # Loss calculation
         loss = nn.functional.cross_entropy(logits.permute(0,2,1), tgt_out, ignore_index=pad_idx)
 
