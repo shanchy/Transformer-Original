@@ -1,0 +1,7 @@
+organization=shanchy
+projectKey=shanchy_Transformer-Original
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.55018
+dashboardUrl=https://sonarcloud.io/dashboard?id=shanchy_Transformer-Original
+ceTaskId=AZAGgfPLO1bOLuTXtkgx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZAGgfPLO1bOLuTXtkgx
